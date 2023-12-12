@@ -16,6 +16,4 @@ A simple and interactive Stopwatch Web Application built using HTML, CSS, and Ja
 
 **Clone the repository:**
 
-    ```bash
     git clone https://github.com/your-username/stopwatch-app.git
-    ```
