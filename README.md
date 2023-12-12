@@ -17,3 +17,18 @@ A simple and interactive Stopwatch Web Application built using HTML, CSS, and Ja
 **Clone the repository:**
 
     git clone https://github.com/your-username/stopwatch-app.git
+
+## Acknowledgments
+
+- This project was inspired by the desire to enhance web development skills.
+- Gratitude to the supportive developer community for valuable insights and feedback.
+- This is my Task 02 of my Prodigy Infotech Internship
+
+
+## Author
+
+Jatush Vasantrai Hingu
+
+## Connect with Me
+
+- **LinkedIn:** [www.linkedin.com/in/jatush-hingu-8158261a9](#)
