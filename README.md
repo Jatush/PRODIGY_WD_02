@@ -14,3 +14,8 @@ A simple and interactive Stopwatch Web Application built using HTML, CSS, and Ja
 - **Reset:** Set the stopwatch back to zero.
 - **Lap Times:** Capture and display lap times.
 
+**Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/stopwatch-app.git
+    ```
