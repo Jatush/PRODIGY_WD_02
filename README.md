@@ -31,4 +31,4 @@ Jatush Vasantrai Hingu
 
 ## Connect with Me
 
-- **LinkedIn:** [www.linkedin.com/in/jatush-hingu-8158261a9](#)
+- **LinkedIn:** [https://www.linkedin.com/in/jatush-hingu-8158261a9?](#)
